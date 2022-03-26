@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "app-logtime",
+    "staging": "app-logtime-dev"
+  },
+  "targets": {}
+}
